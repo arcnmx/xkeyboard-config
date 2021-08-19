@@ -1,0 +1,15 @@
+partial alphanumeric_keys
+xkb_symbols "evdev" {
+  replace key <FK13> { [ F13 ] };
+  replace key <FK14> { [ F14 ] };
+  replace key <FK15> { [ F15 ] };
+  replace key <FK16> { [ F16 ] };
+  replace key <FK17> { [ F17 ] };
+  replace key <FK18> { [ F18 ] };
+  replace key <FK19> { [ F19 ] };
+  replace key <FK20> { [ F20 ] };
+  replace key <FK21> { [ F21 ] };
+  replace key <FK22> { [ F22 ] };
+  replace key <FK23> { [ F23 ] };
+  replace key <FK24> { [ F24 ] };
+};
