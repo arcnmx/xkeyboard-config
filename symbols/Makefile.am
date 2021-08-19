@@ -36,7 +36,7 @@ dist_symbols_DATA = \
     keypad kpdl level2 level3 level5 nbsp olpc shift srvr_ctrl typo
 
 digitaldir = $(symbolsdir)/digital_vndr
-dist_digital_DATA = digital_vndr/lk digital_vndr/pc digital_vndr/us digital_vndr/vt
+dist_digital_DATA = digital_vndr/lk digital_vndr/pc digital_vndr/qmk digital_vndr/us digital_vndr/vt
 
 fujitsudir = $(symbolsdir)/fujitsu_vndr
 dist_fujitsu_DATA = fujitsu_vndr/jp fujitsu_vndr/us

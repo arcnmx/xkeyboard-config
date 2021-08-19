@@ -2,4 +2,5 @@
   $evdevkbds    =   +inet(evdev)+inet(%m)
   chromebook    =   +inet(evdev)+inet(chromebook)
   applealu_jis  =   +inet(evdev)+macintosh_vndr/jp(alujiskeys)
+  qmk           =   +inet(evdev)+digital_vndr/qmk(f13_24)
   *             =   +inet(evdev)
